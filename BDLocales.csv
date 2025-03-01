@@ -13,8 +13,8 @@ H006, HC PLAZA TOBALABA,hc.ptobalaba@hollyconcept.com
 H007,HC PLAZA EGANA,hc.pegana@hollyconcept.com
 H008,HC PLAZA COPIAPO,hc.pcopiapo@hollyconcept.com
 H009,HC PLAZA SUR,hc.psur@hollyconcept.com
-H010,HC PLAZA VESPUCIO ,hc.pvespucio@hollyconcept.com
-H011,HC PLAZA NORTE ,hc.pnorte@hollyconcept.com
+H010,HC PLAZA VESPUCIO,hc.pvespucio@hollyconcept.com
+H011,HC PLAZA NORTE,hc.pnorte@hollyconcept.com
 H012,HC TREBOL,hc.ptrebol@hollyconcept.com
 H013,HC MARINA ARAUCO,hc.marauco@hollyconcept.com
 H014,HC PLAZA MAULE,hc.pmaule@hollyconcept.com
@@ -41,7 +41,7 @@ T023,ARAUCO CORONEL,j01coronel@fashionspark.com
 T024,CONSTITUCION,j01consti@fashionspark.com
 T025,PAJARITOS,j01plazamaipu@fashionspark.com
 T026,TIENDA INTERNET,cristian.naranjo@fashionspark.com
-T027,PE?FLOR,j01.penaflor@fashionspark.com
+T027,PEÑAFLOR,j01.penaflor@fashionspark.com
 T028,PLAZA VESPUCIO,j01vespu@fashionspark.com
 T029,VIVO TEMUCO,j01vivotemuco@fashionspark.com
 T031,SAN BERNARDO II,j01.sanbernardodos@fashionspark.com
@@ -76,7 +76,7 @@ T064,ALTO HOSPICIO,j01.hospicio@fashionspark.com
 T065,SAN BERNARDO,j01berna@fashionspark.com
 T066,LA CISTERNA,j01.lacisterna@fashionspark.com
 T068,MALL PASEO ROSS,j01.ross@fashionspark.com
-T070,CHILL?,j01chill@fashionspark.com
+T070,CHILLAN,j01chill@fashionspark.com
 T071,TALCA,j01talca@fashionspark.com
 T074,PLAZA DE ARMAS,j01.parmas@fashionspark.com
 T075,SAN JAVIER,j01.sanjavier@fashionspark.com
@@ -87,18 +87,18 @@ T080,LA LIGUA,j01.laligua@fashionspark.com
 T081,MARINA ARAUCO,j01marau@fashionspark.com
 T083,LINARES II,j01.linarescentro@fashionspark.com
 T084,BUIN,j01buin2@fashionspark.com
-T085,COPIAP?j01cop2@fashionspark.com
+T085,COPIAPO,j01cop2@fashionspark.com
 T086,MAIPU,j01maipu@fashionspark.com
 T087,PLAZA VICTORIA,j01valpo@fashionspark.com
 T088,PUERTO MONTT,j01varas@fashionspark.com
 T089,OSORNO,j01osorn@fashionspark.com
 T090,PUERTA DEL MAR,j01.pmar@fashionspark.com
 T091,QUILPUE,j01quil3@fashionspark.com
-T092,LOS ?GELES II,j01.angeles.dos@fashionspark.com
+T092,LOS AGELES II,j01.angeles.dos@fashionspark.com
 T093,BUIN III,j01.buintres@fashionspark.com
 T094,SANTA ROSA,j01srosa@fashionspark.com
 T095,LA SERENA,j01serena@fashionspark.com
-T097,PASEO ESTACI?,j01borja@fashionspark.com
+T097,PASEO ESTACION,j01borja@fashionspark.com
 T098,IRARRAZAVAL,j01irarrazaval@fashionspark.com
 T099,VALDIVIA,j01.valdivia@fashionspark.com
 T104,MALL QUILPUE,j01.plazaquilpue@fashionspark.com
@@ -108,9 +108,9 @@ T107,RIO BUENO,j01.riobueno@fashionspark.com
 T108,ARICA III,j01.arica.tres@fashionspark.com
 T109,CANETE II,j01.canete.dos@fashionspark.com
 T110,OPEN PLAZA OVALLE,j01.plazaovalle@fashionspark.com
-T111,QUILIN ,j01.quilin@fashionspark.com
+T111,QUILIN,j01.quilin@fashionspark.com
 T112,LOS ANDES ,j01.losandes@fashionspark.com
-T113,SAN FERNANDO ,j01.sanfernando@fashionspark.com
+T113,SAN FERNANDO,j01.sanfernando@fashionspark.com
 T114,VIVO CHILLAN,j01.vivochillan@fashionspark.com
 T115,LINCOYAN II,j01.concepcion@fashionspark.com
 T116,VILLARRICA DOS,j01.villarrica.dos@fashionspark.com
